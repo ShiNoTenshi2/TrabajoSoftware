@@ -1,24 +1,24 @@
-#Ejemplo para crear y cargar excel 
-##Descripción
+# Ejemplo para crear y cargar excel 
+## Descripción
 Es un software para registrar equipos en base a un excel.
 
-##Lenguaje de desarollo:
--Java
+## Lenguaje de desarollo:
+- Java
 
-##GUI: Graphical User Interface
--JavaFX
--Scene Builder
+## GUI: Graphical User Interface
+- JavaFX
+- Scene Builder
 
-##Entorno de desarrollo integrado
--Eclipse
+## Entorno de desarrollo integrado
+- Eclipse
 
-##Motor base de datos
--Oracle
+## Motor base de datos
+- Oracle
 
-##Drivers
--JDBC
--Apache POI
--Java FX SDK
+## Drivers
+- JDBC
+- Apache POI
+- Java FX SDK
 
-##Contribuidores
--Samuel Rios [@SRios98](https://github.com/SRios98/)
+## Contribuidores
+- Samuel Rios [@SamuelRios](https://github.com/SRios98/)
