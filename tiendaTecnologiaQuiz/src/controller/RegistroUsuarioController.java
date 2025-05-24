@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 import model.Producto;
 import model.UserSession;
 
-public class RegistroProductosController {
+public class RegistroUsuarioController {
 
 	@FXML
 	private TableColumn<Producto, Integer> columnCantidad;
