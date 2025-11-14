@@ -19,6 +19,3 @@ Es un software para registrar equipos en base a un excel.
 - JDBC
 - Apache POI
 - Java FX SDK
-
-## Contribuidores
-- Samuel Rios [@SamuelRios](https://github.com/SRios98/)
